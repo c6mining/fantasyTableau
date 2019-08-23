@@ -1,0 +1,59 @@
+* {
+    font-family: Arial, Helvetica, sans-serif !important;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+    font-size: .95em;
+}
+
+button {
+    font-size: .75em;
+    width: 120px;
+    height: 1.8em;
+}
+
+a {
+    text-decoration: none;
+}
+
+.myButton1 {
+    background-color: #abdfff;
+    border: 1px solid #000000;
+    cursor: pointer;
+    color: #000000;
+    font-family: Verdana;
+    font-size: 11px;
+    padding: 12px;
+    text-decoration: none;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    text-align: center;
+    max-height: 50px;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.myButton2 {
+    background-color: #caffab;
+    border: 1px solid #000000;
+    cursor: pointer;
+    color: #000000;
+    font-family: Verdana;
+    font-size: 11px;
+    padding: 12px;
+    text-decoration: none;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    text-align: center;
+    max-height: 50px;
+    align-items: center;
+    margin-bottom: 8px;
+}
